@@ -1,0 +1,9 @@
+numpy>=1.22.0
+opencv-python>=4.5.2
+tensorflow>=2.9.0
+matplotlib>=3.4.0
+imageio>=2.13.1
+dlib>=19.22.0
+mediapipe>=0.8.10
+h5py
+python-Levenshtein>=0.12.2
