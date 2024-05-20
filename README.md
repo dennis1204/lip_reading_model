@@ -1,7 +1,7 @@
 # Lip reading model 
 
 ## Prerequisites
-- Python 3.x
+- Python 3.9 or above
 - `pip` (Python package installer)
 
 ## Setup
